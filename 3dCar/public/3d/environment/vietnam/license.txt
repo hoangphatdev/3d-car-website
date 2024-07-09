@@ -1,0 +1,11 @@
+Model Information:
+* title:	Vietnam
+* source:	https://sketchfab.com/3d-models/vietnam-f87d15e312c943c9b1e5d1123d68296c
+* author:	Space Explorers Academy (https://sketchfab.com/SpaceExplorersAcademy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Vietnam" (https://sketchfab.com/3d-models/vietnam-f87d15e312c943c9b1e5d1123d68296c) by Space Explorers Academy (https://sketchfab.com/SpaceExplorersAcademy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Water Splash Spiral
+* source:	https://sketchfab.com/3d-models/water-splash-spiral-282e1a5d84f5472281e72f35987775e7
+* author:	Will VFX (https://sketchfab.com/wjcvfilm)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Water Splash Spiral" (https://sketchfab.com/3d-models/water-splash-spiral-282e1a5d84f5472281e72f35987775e7) by Will VFX (https://sketchfab.com/wjcvfilm) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

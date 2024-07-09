@@ -1,0 +1,11 @@
+Model Information:
+* title:	Studio V1 For Car
+* source:	https://sketchfab.com/3d-models/studio-v1-for-car-9c45d19a7d434e2ca1640d6d2146e895
+* author:	Velocity Motion (https://sketchfab.com/velocity.motion)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Studio V1 For Car" (https://sketchfab.com/3d-models/studio-v1-for-car-9c45d19a7d434e2ca1640d6d2146e895) by Velocity Motion (https://sketchfab.com/velocity.motion) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

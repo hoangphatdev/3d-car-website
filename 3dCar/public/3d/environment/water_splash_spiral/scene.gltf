@@ -1,0 +1,462 @@
+{
+  "accessors": [
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        228.3078155517578,
+        400.5957946777344,
+        150.45082092285156
+      ],
+      "min": [
+        -222.28140258789063,
+        -15.18496036529541,
+        -191.7257080078125
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 786384,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999977350234985,
+        0.9999924898147583,
+        0.9999313950538635
+      ],
+      "min": [
+        -0.9999457001686096,
+        -0.9999828338623047,
+        -0.9999220967292786
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 353181,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 1572768,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        239.06329345703125,
+        366.345458984375,
+        266.8772277832031
+      ],
+      "min": [
+        -184.7051239013672,
+        -28.206968307495117,
+        -234.34605407714844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 2359152,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999805688858032,
+        0.9999797344207764,
+        0.9999911785125732
+      ],
+      "min": [
+        -0.9999454617500305,
+        -0.9999958276748657,
+        -0.9999534487724304
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 1412724,
+      "componentType": 5125,
+      "count": 340227,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3145536,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        175.181640625,
+        435.40484619140625,
+        284.8545227050781
+      ],
+      "min": [
+        -238.33348083496094,
+        -4.223799228668213,
+        -174.81285095214844
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 3931920,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.9999825954437256,
+        0.9999822378158569,
+        0.9999340176582336
+      ],
+      "min": [
+        -0.9999819993972778,
+        -0.9999985694885254,
+        -0.9999964237213135
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 2773632,
+      "componentType": 5125,
+      "count": 353436,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 4718304,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        232.12046813964844,
+        402.7622985839844,
+        284.8545227050781
+      ],
+      "min": [
+        -272.1506652832031,
+        -34.029273986816406,
+        -232.18392944335938
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 5504688,
+      "componentType": 5126,
+      "count": 65532,
+      "max": [
+        0.999959409236908,
+        0.9999682307243347,
+        0.9999220967292786
+      ],
+      "min": [
+        -0.9999996423721313,
+        -0.9999887943267822,
+        -0.9999964237213135
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 4187376,
+      "componentType": 5125,
+      "count": 328455,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6291072,
+      "componentType": 5126,
+      "count": 2723,
+      "max": [
+        63.0,
+        214.885009765625,
+        255.65408325195313
+      ],
+      "min": [
+        0.9841315150260925,
+        3.381549596786499,
+        116.21512603759766
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 1,
+      "byteOffset": 6323748,
+      "componentType": 5126,
+      "count": 2723,
+      "max": [
+        0.999101996421814,
+        0.9999155402183533,
+        0.9997422099113464
+      ],
+      "min": [
+        -0.9991178512573242,
+        -0.999902069568634,
+        -0.9998189210891724
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 0,
+      "byteOffset": 5501196,
+      "componentType": 5125,
+      "count": 11721,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Will VFX (https://sketchfab.com/wjcvfilm)",
+      "license": "CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)",
+      "source": "https://sketchfab.com/3d-models/water-splash-spiral-282e1a5d84f5472281e72f35987775e7",
+      "title": "Water Splash Spiral"
+    },
+    "generator": "Sketchfab-16.14.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 5548080,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 6356424,
+      "byteOffset": 5548080,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 11904504,
+      "uri": "scene.bin"
+    }
+  ],
+  "extensionsRequired": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "extensionsUsed": [
+    "KHR_materials_pbrSpecularGlossiness"
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "extensions": {
+        "KHR_materials_pbrSpecularGlossiness": {
+          "diffuseFactor": [
+            0.0,
+            0.39758142450874623,
+            0.48000146286160106,
+            1.0
+          ],
+          "glossinessFactor": 0.7028562372761518,
+          "specularFactor": [
+            0.40685838280649994,
+            0.40685838280649994,
+            0.40685838280649994
+          ]
+        }
+      },
+      "name": "Scene_-_Root"
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Liquid__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0
+          },
+          "indices": 2,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Liquid__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 4,
+            "POSITION": 3
+          },
+          "indices": 5,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Liquid__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 7,
+            "POSITION": 6
+          },
+          "indices": 8,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Liquid__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 10,
+            "POSITION": 9
+          },
+          "indices": 11,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    },
+    {
+      "name": "Liquid__0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 13,
+            "POSITION": 12
+          },
+          "indices": 14,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "matrix": [
+        0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.009999999776482582,
+        0.0,
+        0.0,
+        -0.009999999776482582,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "162bd1b71ee746b9b1d329ef5da41e88.fbx"
+    },
+    {
+      "children": [
+        3,
+        5
+      ],
+      "name": "RootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "matrix": [
+        -0.787087837351232,
+        -0.08802505379081921,
+        0.6105279077969192,
+        0.0,
+        -0.06955343751165424,
+        0.9961182610037441,
+        0.05395117630959517,
+        0.0,
+        -0.6129070530056515,
+        2.5326962749261384e-16,
+        -0.7901550128778068,
+        0.0,
+        1280.5194091796875,
+        274.0386047363281,
+        -829.6345825195313,
+        1.0
+      ],
+      "name": "CINEMA_4D_Editor"
+    },
+    {
+      "name": "Object_4"
+    },
+    {
+      "children": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ],
+      "name": "Liquid"
+    },
+    {
+      "mesh": 0,
+      "name": "Liquid__0"
+    },
+    {
+      "mesh": 1,
+      "name": "Liquid__0"
+    },
+    {
+      "mesh": 2,
+      "name": "Liquid__0"
+    },
+    {
+      "mesh": 3,
+      "name": "Liquid__0"
+    },
+    {
+      "mesh": 4,
+      "name": "Liquid__0"
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ]
+}

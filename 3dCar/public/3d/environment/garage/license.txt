@@ -1,0 +1,11 @@
+Model Information:
+* title:	Garage
+* source:	https://sketchfab.com/3d-models/garage-799ae1192db2468facc347f0f31e1bb8
+* author:	ROY (https://sketchfab.com/roy.gearloft.in)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Garage" (https://sketchfab.com/3d-models/garage-799ae1192db2468facc347f0f31e1bb8) by ROY (https://sketchfab.com/roy.gearloft.in) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
